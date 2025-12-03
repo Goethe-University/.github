@@ -9,7 +9,7 @@ This organization serves as a central platform for research software, teaching m
 
 ---
 
-##  Table of Contents
+## Table of Contents
 1. [Purpose](#purpose)  
 2. [Members](#members)  
 3. [Policies & Standards](#policies--standards)  
