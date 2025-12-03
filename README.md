@@ -2,7 +2,7 @@
 
 # Goethe University Frankfurt GitHub Organization
 
-![GitHub Org](https://img.shields.io/badge/organization-official-blue) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Status: Official](https://img.shields.io/badge/status-official-blue) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Welcome to the official GitHub organization of GU Frankfurt, managed by the University Library J. C. Senckenberg.  
 This organization serves as a central platform for research software, teaching materials, and open-source projects, supporting collaboration among students, researchers, and staff.
